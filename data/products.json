@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Redmi",
+        "description": "Mobile from Redmi",
+        "price": 200,
+        "imgUrl": "http://img03.mifile.cn/webfile/images/hd/2014021001/sg/redmi/new_xmhm_15.jpg?2014021402"
+    },
+    {
+        "id": 2,
+        "name": "Iphone",
+        "description": "Mobile from Apple",
+        "price": 500,
+        "imgUrl": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/H/KH/HKHC2/HKHC2?wid=445&hei=445&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1474481298618"
+    },
+    {
+        "id": 3,
+        "name": "Nexus",
+        "description": "Mobile from LG",
+        "price": 300,
+        "imgUrl": "https://i-cdn.phonearena.com/images/phones/56080-xlarge/Google-Nexus-5X-0.jpg"
+    }
+]
